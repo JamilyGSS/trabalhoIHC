@@ -7,6 +7,6 @@ Interface web que permite aos clientes consultar produtos de uma confeitaria, vi
 Link para o formulário: https://forms.gle/Z1QmftKRqu7Sbx9g9
 
 ### Integrantes 
-Ana Julia Thibes dos Santos
-Anna Lísia de almeida Yaguti
-Jamily Gonçalves de Sales Souza
+#### Ana Julia Thibes dos Santos
+#### Anna Lísia de almeida Yaguti
+#### Jamily Gonçalves de Sales Souza
